@@ -23,6 +23,7 @@ A Docker Container is an isolated environment for running an application.We can 
 Docker uses a client server architecture.The client talks to the server using a REST API.The server is also called Docker Engine sits on the background and is responsible for building and running docker containers.In some ways a container is a process running on your computer.
 
 ### Installing Docker
+
 Docker can be installed by following the steps mentioned on the official docker website.To check the version of docker that is installed on your computer you can use the command `docker version`.
 
 ### Development Workflow
