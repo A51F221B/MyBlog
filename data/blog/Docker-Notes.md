@@ -94,6 +94,7 @@ To see the list of running docker containers at a given time we can use `docker 
 `docker start -i [id]`
 
 #### Components of `Dockerfile`
+
 - FROM ->  Contains the base image
 - WORKDIR -> specifying the working directory 
 - COPY -> to copy files and directories
