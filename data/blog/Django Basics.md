@@ -1,5 +1,5 @@
 ---
-title: Basics of Django
+title: Basics of Django Part 1
 date: '2023-08-29'
 tags: ['python', 'Programming', 'Django','backend','development','web development','python programming']
 draft: false
