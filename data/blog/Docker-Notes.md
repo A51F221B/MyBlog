@@ -39,6 +39,7 @@ An image may contain
 Once the image is made, we tell docker to run a container using that image.So instead of running the application directly , we can use docker and run that application in a separate and isolated environment.Once we have the image file, we can push it to docker registry.There are a lot of official images of different softwares available on dockerhub.
 
 ### How to Use Docker
+
 Suppose we want to dockerize a `hello.py` file.This is the file.
 
 ```python
