@@ -11,18 +11,22 @@ summary: Docker is used to deploy application along with it complete dependencie
 
 
 ### Introduction
+
 Docker is used to deploy application along with it complete dependencies.Any user can use the docker container and run the application without installing any extra frameworks or modules.
 
 ### Docker Container
+
 A Docker Container is an isolated environment for running an application.We can have many docker containers running different versions of the same application running in isolation.Containers are very lightweight and share the operating system of the host.Or in more accurate terms the containers use the kernel of host operating system.This is one of the main difference between virtual machines and containers.On a single host we can run hundreds of containers side by side.
 
 ### Docker Architecture
+
 Docker uses a client server architecture.The client talks to the server using a REST API.The server is also called Docker Engine sits on the background and is responsible for building and running docker containers.In some ways a container is a process running on your computer.
 
 ### Installing Docker
 Docker can be installed by following the steps mentioned on the official docker website.To check the version of docker that is installed on your computer you can use the command `docker version`.
 
 ### Development Workflow
+
 We can dockerize any application to make it run on docker.We just add a `Dockerfile` which contains all the instructions to package this application into an image.The image contains everything needed to run that application.
 An image may contain
 - A cut-down OS
