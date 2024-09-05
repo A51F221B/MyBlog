@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Web Cache Poisoning
+title: PortSwigger - Web Cache Poisoning
 date: '2024-08-23'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Cross-origin resource sharing (CORS) 
+title: PortSwigger - Cross-origin resource sharing (CORS) 
 date: '2024-01-04'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

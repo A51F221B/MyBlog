@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Insecure Deserialization Labs
+title: PortSwigger - Insecure Deserialization Labs
 date: '2024-05-10'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

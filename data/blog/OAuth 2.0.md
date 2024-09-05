@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | OAuth Labs 
+title: PortSwigger - OAuth Labs 
 date: '2024-06-10'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

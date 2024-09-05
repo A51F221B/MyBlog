@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Server Side Request Forgery
+title: PortSwigger - Server Side Request Forgery
 date: '2024-05-10'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

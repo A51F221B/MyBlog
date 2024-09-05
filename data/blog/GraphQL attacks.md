@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | GraphQL
+title: PortSwigger - GraphQL
 date: '2024-03-10'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

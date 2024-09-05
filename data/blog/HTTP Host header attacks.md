@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Host Header Attacks
+title: PortSwigger - Host Header Attacks
 date: '2024-04-04'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

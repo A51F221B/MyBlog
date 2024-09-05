@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | JWT attacks
+title: PortSwigger - JWT attacks
 date: '2024-05-10'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

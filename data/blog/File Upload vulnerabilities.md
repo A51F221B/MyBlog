@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | File upload Vulnerabilities
+title: PortSwigger - File upload Vulnerabilities
 date: '2024-03-04'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: PortSwigger | Path Traversal
+title: PortSwigger - Path Traversal
 date: '2024-07-09'
 tags: ['PortSwigger', 'PortSwigger Labs', 'Web Security']
 draft: false
